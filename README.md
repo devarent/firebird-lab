@@ -1,4 +1,38 @@
 
+<!-- identity-block -->
+<div align="center">
+
+# firebird-lab
+
+<sub>Run Firebird 5 in Docker, model a small sales schema, and practice SQL with isql and JDBC.</sub>
+
+</div>
+
+## At a glance
+
+| Field | Detail |
+| --- | --- |
+| Repository | firebird-lab |
+| Primary language | Mixed / documentation |
+| Topics | database, database-labs, devarent, docker, firebird, lab, relational-database, sql |
+| License | MIT |
+| Branch | main |
+| Maintainer | [@devarent](https://github.com/devarent) |
+
+## Overview
+
+firebird-lab is a hands-on repository focused on: Run Firebird 5 in Docker, model a small sales schema, and practice SQL with isql and JDBC.. Primary language: Mixed / documentation. Topics: database, database-labs, devarent, docker, firebird, lab, relational-database, sql. The README below documents the project; use the table above for a quick overview.
+
+### Global references
+
+<div align="center">
+
+🇮🇸 Iceland &middot; 🇳🇿 New Zealand &middot; 🇨🇭 Switzerland &middot; 🇸🇮 Slovenia &middot; 🇮🇪 Ireland &middot; 🇦🇹 Austria &middot; 🇵🇹 Portugal &middot; 🇸🇬 Singapore &middot; 🇫🇮 Finland
+
+</div>
+
+---
+
 <!-- dbx-style-kit -->
 <div align="center">
 
