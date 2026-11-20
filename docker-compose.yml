@@ -1,0 +1,16 @@
+services:
+  firebird:
+    image: firebirdsql/firebird:5.0.4
+    container_name: firebird-lab
+    restart: unless-stopped
+    environment:
+      FIREBIRD_ROOT_PASSWORD: masterkey
+      FIREBIRD_DATABASE: lab.fdb
+      FIREBIRD_DATABASE_DEFAULT_CHARSET: UTF8
+    ports:
+      - "127.0.0.1:3050:3050"
+    volumes:
+      - firebird-data:/firebird/data
+
+volumes:
+  firebird-data:
